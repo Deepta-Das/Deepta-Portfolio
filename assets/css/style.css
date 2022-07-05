@@ -38,7 +38,7 @@ nav {
   justify-content: center;
 }
 .badge {
-  background-color: #ff0000;
+  background-color: #03fcb6;
   opacity: 0.5;
   filter: blur(6px);
   border-radius: 15px;
@@ -53,7 +53,7 @@ nav {
   position: absolute;
 }
 b {
-  color: #ff0000;
+  color: #03fcb6;
 }
 
 /**About**/
@@ -67,7 +67,7 @@ ul {
   list-style: none;
 }
 .btn {
-  background-color: #ff0000;
+  background-color: #03fcb6;
 }
 
 /**Services**/
